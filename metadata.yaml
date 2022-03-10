@@ -1,5 +1,8 @@
 _repo: Fame-and-Fortune-Weekly-No-10-December-8-1905-A-Copper-Harvest-or-The-Boys-who-Worked-a-Deser__67500
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67500-h/images/cover.jpg
 creator:
   author:
     agent_name: Self-made man
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '54238'
     url: http://www.gutenberg.org/2009/agents/54238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67500#Fame-and-Fortune-Weekly-No-10-December-8-1905-A-Copper-Harvest-or-The-Boys-who-Worked-a-Deser_
 gutenberg_issued: '2022-02-25'
 identifiers:
   gutenberg: '67500'
